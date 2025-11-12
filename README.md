@@ -78,6 +78,3 @@ Developed 100+ APIs serving over **500,000 daily requests**, ensuring uptime and
 </p>
 
 ---
-
-> _"Code that scales. Systems that last."_  
-> — **Mike**
